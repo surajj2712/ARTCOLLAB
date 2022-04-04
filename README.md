@@ -9,3 +9,8 @@ A PHP e-commerce web application.
 6. Once this is done, go to the url of your website (i.e localhost/file_name) and it should be up and running.
 
 Currently only COD (Cash on Delivery), has been implemented. Stay tuned for the updates.
+ few screenshots are as follows:
+ ![hp](https://user-images.githubusercontent.com/62068028/161595306-f448c7f8-5b40-44d1-9206-4520d9de0ba3.PNG)
+![cart](https://user-images.githubusercontent.com/62068028/161595405-49ded21e-2fcd-45e3-86b2-f56a240d9b45.PNG)
+![about](https://user-images.githubusercontent.com/62068028/161595407-719d7a87-1e9f-40f3-a201-2b119ba7c1fd.PNG)
+![artpro](https://user-images.githubusercontent.com/62068028/161595424-2a8094a7-f866-4e34-b478-7eec4ec7b529.PNG)
